@@ -42,7 +42,7 @@ pre-release-replacements = [
 bench = false
 
 [dependencies]
-roff = "0.2.1"
+roff = "1.0.0"
 clap = { path = "../", version = "3.1.10", default-features = false, features = ["std", "env"] }
 
 [dev-dependencies]
